@@ -6,12 +6,12 @@ An open source dataset, SpeechOcean762 (licenced with CC BY 4.0) is used. You ca
 
 # Requisites
 You can set up virtual environment by below command
-  * pip install -r requirements.txt
+  * `pip install -r requirements.txt`
 
 # Training
 This bash script will run each model 5 times.
-  * cd src
-  * bash run_hipama.sh
+  * `cd src`
+  * `bash run_hipama.sh`
     
 Due to the random elements, </strong>every run does not produce the same results</strong>.
 
