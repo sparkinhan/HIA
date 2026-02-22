@@ -1,5 +1,5 @@
 # HIA
-This repository is the official implementation of the AAAI 2026 paper: [Multi-granularity Interactive Attention Framework for Residual Hierarchical Pronunciation Assessment](You can run below command on your virtual environment).
+This repository is the official implementation of the AAAI 2026 paper: [**Multi-granularity Interactive Attention Framework for Residual Hierarchical Pronunciation Assessment**](https://arxiv.org/abs/2601.01745).
 
 # Dataset
 An open source dataset, SpeechOcean762 (licenced with CC BY 4.0) is used. You can download it from https://www.openslr.org/101.
